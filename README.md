@@ -21,6 +21,6 @@
 </p>
   </div>
   
- <div align="center">
+ <p align="center">
    ![besha2vox's github stats](https://github-readme-stats.vercel.app/api?username=besha2vox&show_icons=true&theme=dracula)
-  </div>
+  </p>
