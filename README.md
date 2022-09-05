@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **besha2vox@gmail.com**
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:10px">
+<div align="center">
   <h3 align="right">My stack and tools:</h3>
 <p align="right">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
