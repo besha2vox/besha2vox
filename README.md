@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<h1>(ง ื▿ ื)ว</h1>
+(ง ื▿ ื)ว
 
 <h3> My stack and tools:</h3>
 <p></p>
