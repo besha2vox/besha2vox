@@ -14,7 +14,7 @@
   
   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a target="_blank" href="https://twitter.com/keyboardslaping" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keyboardslaping" height="30" width="40" /></a>&nbsp;
+<a href="https://twitter.com/keyboardslaping" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keyboardslaping" height="30" width="40" /></a>&nbsp;
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/besha2vox/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/besha2vox/" height="30" width="40" /></a>&nbsp;
 <a href="https://fb.com/https://www.facebook.com/donnie.darko.507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/donnie.darko.507" height="30" width="40" /></a>&nbsp;
 <a href="https://instagram.com/besha2vox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="besha2vox" height="30" width="40" /></a>
