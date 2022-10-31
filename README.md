@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Serhii Revva</h1>
 <h3 align="center">I'm a passionate student of Full Stack Developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [team project "3DFreedom"](https://github.com/besha2vox/team-project-3DFreedom)
-
 - 🌱 I’m currently learning **Js, React.js, Node.js**
 
 - 📫 How to reach me **besha2vox@gmail.com**
