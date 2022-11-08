@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Serhii Revva</h1>
 <h3 align="center">I'm a passionate student of Full Stack Developer from Ukraine</h3>
 
+- 🔭 I’m currently working on [project "Tic Tac Toe"](https://github.com/besha2vox/tic-tac-toe)
+
 - 🌱 I’m currently learning **Js, React.js, Node.js**
 
 - 📫 How to reach me **besha2vox@gmail.com**
