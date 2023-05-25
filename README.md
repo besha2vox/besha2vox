@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Serhii Revva</h1>
 <h3 align="center">I'm a passionate student of Full Stack Developer from Ukraine</h3>
 
-- 🔭 My projects: [project "Filmoteka"](https://github.com/besha2vox/goit-js-teamproject-filmoteka/)
+- 🔭 My projects: ["Filmoteka"](https://github.com/besha2vox/goit-js-teamproject-filmoteka/), ["Your Pet"](https://github.com/besha2vox/your-pet)
 
 - 🌱 I’m currently learning **Js, React.js, Node.js**
 
