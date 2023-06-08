@@ -4,7 +4,7 @@
 
 - 🔭 My projects: [Filmoteka](https://github.com/besha2vox/goit-js-teamproject-filmoteka/), [Your Pet](https://github.com/besha2vox/your-pet), [Go Volunteer](https://www.go-volonteer.in.ua/),
 
-- 🌱 I’m currently learning **Js, React.js, Node.js**
+- 🌱 I’m currently learning **JS, TS, Next.js**
 
 - 📫 How to reach me **besha2vox@gmail.com**
 
