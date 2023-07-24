@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Serhii Revva</h1>
+<div align="center"><a href="https://www.codewars.com/users/besha2vox/stats" target="_blank"><img alt="Codewars" src="https://www.codewars.com/users/besha2vox/badges/small" /></a></div>
 <h3 align="center">I'm a passionate student of Full Stack Developer from Ukraine</h3>
 
 - 🔭 My projects: [Filmoteka](https://github.com/besha2vox/goit-js-teamproject-filmoteka/), [Your Pet](https://github.com/besha2vox/your-pet), [Go Volunteer](https://www.go-volonteer.in.ua/),
@@ -41,5 +42,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/besha2vox/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/besha2vox/" height="30" width="40" /></a>&nbsp;
 <a href="https://fb.com/https://www.facebook.com/donnie.darko.507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/donnie.darko.507" height="30" width="40" /></a>&nbsp;
 <a href="https://instagram.com/besha2vox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="besha2vox" height="30" width="40" /></a>
+
 
 
