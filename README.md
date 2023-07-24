@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Serhii Revva</h1>
-<div align="center"><a href="https://www.codewars.com/users/besha2vox/stats" target="_blank"><img alt="Codewars" src="https://www.codewars.com/users/besha2vox/badges/small" /></a></div>
+<div align="center">
+  
+  [![codewars](https://www.codewars.com/users/besha2vox/badges/small)](https://www.codewars.com/users/besha2vox/stats)
+  
+</div>
+
 <h3 align="center">I'm a passionate student of Full Stack Developer from Ukraine</h3>
 
 - 🔭 My projects: [Filmoteka](https://github.com/besha2vox/goit-js-teamproject-filmoteka/), [Your Pet](https://github.com/besha2vox/your-pet), [Go Volunteer](https://www.go-volonteer.in.ua/),
