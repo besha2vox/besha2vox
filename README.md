@@ -6,7 +6,7 @@
   
 </div>
 
-<h3 align="center">I'm a passionate student of Full Stack Developer from Ukraine</h3>
+<h3 align="center">I'm a Full Stack Developer from Ukraine</h3>
 
 - 🔭 My projects: [Filmoteka](https://github.com/besha2vox/goit-js-teamproject-filmoteka/), [Your Pet](https://github.com/besha2vox/your-pet), [Go Volunteer](https://www.go-volonteer.in.ua/),
 
