@@ -10,7 +10,7 @@
 
 - 🔭 My projects: [Filmoteka](https://github.com/besha2vox/goit-js-teamproject-filmoteka/), [Your Pet](https://github.com/besha2vox/your-pet), [Go Volunteer](https://www.go-volonteer.in.ua/),
 
-- 🌱 I’m currently learning **TS, Next.js, EC2**
+- 🌱 I’m currently learning **TS, Next.js**
 
 - 📫 How to reach me **besha2vox@gmail.com**
 
